@@ -8,7 +8,7 @@ We lose the ubuntu@server in the prompt with the git bash profile.
 ## General Instructions
 This repo needs to be cloned on all servers.
 
-## repo
+## repo  CHANGED
 https://github.com/rgranier/scripts.git
 
 
